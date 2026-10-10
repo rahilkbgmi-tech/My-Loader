@@ -1,15 +1,18 @@
-{
+ {
   "version": "1.0",
   "url": "",
+
   "pubgm": false,
   "bgmi": true,
   "korea": false,
-  "sign_sha256": "fbcc4d03cc5f1b982b44d97e4d13b6265a11e54d45d27a089e913a80afff40f3",
+  "sign_sha256": "d63a2e0a709cf82cbb54a72fe5a046e91e1ec4c591765f4cdf56efce8dbe82fe",
+  
   "pubgm_msg": "PUBG GL Paid Version Buy Now",
   "bgmi_msg": "SEVER MAINTENANCE",
   "korea_msg": "KOREA Paid Version Buy Now",
-  "sign_msg": "Go Watch Xnxx",
+  "sign_msg": "Go watch Xnxx",
+
   "pubgm_obb_url": "",
   "bgmi_obb_url": "",
   "korea_obb_url": ""
-}
+ }
